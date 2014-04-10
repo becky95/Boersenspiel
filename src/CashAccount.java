@@ -20,6 +20,8 @@ public class CashAccount extends Asset
 		return this.geld;
 	}
 	
+	
+	// bla
 //	public long getMoney()
 //	{
 //		return this.geld;
